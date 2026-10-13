@@ -46,6 +46,7 @@ Scenes are in `Assets/MotionMatching/Scenes/`.
 | `2_FeatureTest.unity` | Visualize pose and future-trajectory features. |
 | `3_BlendingTest.unity` | Demonstrate displacement-based transition blending. |
 | `4_MotionMatching.unity` | Control locomotion through motion matching. |
+
 After restoring assets, start with motion playback and then open `4_MotionMatching.unity`. Use the arrow keys through the default Horizontal/Vertical input axes.
 
 1_PoseTest Demo
