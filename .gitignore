@@ -1,0 +1,38 @@
+# Unity-generated local files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.vs/
+/.idea/
+/.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+# Generated project files are root-level.
+/*.csproj
+/*.csproj.meta
+*.unitypackage
+.DS_Store
+Thumbs.db
+# External characters, motion sources and generated data are local-only.
+/Assets/MotionMatching/Data/*
+!/Assets/MotionMatching/Data/README.md
+!/Assets/MotionMatching/Data/README.md.meta
+
+# Download KdTree separately; keep its local source and metadata out of Git.
+/Assets/MotionMatching/Scripts/External/KdTreeLib/
+/Assets/MotionMatching/Scripts/External/KdTreeLib.meta
