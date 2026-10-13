@@ -49,16 +49,24 @@ Scenes are in `Assets/MotionMatching/Scenes/`.
 After restoring assets, start with motion playback and then open `4_MotionMatching.unity`. Use the arrow keys through the default Horizontal/Vertical input axes.
 
 1_PoseTest Demo
+
 https://github.com/user-attachments/assets/9c3234c7-cf82-43a6-a667-c1304dc59e09
 
+
 2_FeatureTest Demo
+
 https://github.com/user-attachments/assets/4aadeeb8-3a13-47fb-b38b-141524ea275a
 
+
 3_BlendingTest Demo
+
 https://github.com/user-attachments/assets/c6659dd2-895b-49a3-8c05-837c3bd33b2d
 
+
 4_MotionMatching Demo
+
 https://github.com/user-attachments/assets/457608c0-05fd-4849-9bc0-ec1897ef40a4
+
 
 ## Limitations
 
